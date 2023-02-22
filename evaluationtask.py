@@ -1,6 +1,6 @@
 import numpy as np
 
-class list():
+class listproblem():
   def eval_exercise1_list(input):
     """
     Silahkan masukkan dalam bentuk list.
